@@ -1,5 +1,7 @@
 # PW5 - Image Blending with OpenCV and Matplotlib
 
+[GitHub Repository](https://github.com/yourusername/yourrepository)
+
 This project demonstrates a simple image processing and computer vision task where two images are blended together. Specifically, I blended a primary image (`dog_backpack.png`) with a watermark to create a watermarked version of the original image. The final output is saved in the `images` directory.
 
 ## Libraries Used
